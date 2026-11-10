@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+All_Beauty.jsonl/
+meta_All_Beauty.jsonl/
+All_Beauty.jsonl.gz/
+meta_All_Beauty.jsonl.gz/
+checkpoint-41/
+checkpoint-82/
+checkpoint-123/
+checkpoint-164/
+checkpoint-205/
+lora_adapter_ft/
+tokenizer_config.json/
+tokenizer.json/
+final_dataset_sft.csv/
