@@ -228,7 +228,6 @@ checkpoint-82/
 checkpoint-123/
 checkpoint-164/
 checkpoint-205/
-lora_adapter_ft/
 tokenizer_config.json/
 tokenizer.json/
 final_dataset_sft.csv/
